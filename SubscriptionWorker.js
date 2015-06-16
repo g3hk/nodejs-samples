@@ -1,3 +1,4 @@
+//Samples for nodejs code
 var subscriptionModel = require('../models/Subscription');
 var randomUtil = require('../utils/RandomUtil');
 var logger = require('../utils/Logger');

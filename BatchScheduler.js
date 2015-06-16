@@ -1,3 +1,4 @@
+//samples for node code
 var schedule = require('node-schedule');
 var jobModel = require('../models/Job');
 var batchSmootheningWorker = require('../workers/BatchSmootheningWorker');
